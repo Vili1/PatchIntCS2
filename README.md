@@ -11,7 +11,7 @@ Use at your own risk.
 (Up to date as of 8/11/2025)
 Update the offset if needed.
 
-Compile the project(for X64 Release and use Multi-Byte Character Set).
+Compile the project (for X64 Release and use Multi-Byte Character Set).
 
 Change the ambient occlusion in advance video settings to medium or higher.
 
