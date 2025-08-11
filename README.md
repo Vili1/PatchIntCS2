@@ -8,7 +8,7 @@ Use at your own risk.
 ### Usage
 (Up to date as of 8/11/2025)
 Update the offset if needed.
-Compile the project.
+Compile the project(for X64 Release and use Multi-Byte Character Set).
 Change the ambient occlusion in advance video settings to medium or higher.
 
 <img width="830" height="106" alt="1" src="https://github.com/user-attachments/assets/a64936b1-d1ab-44c2-bbfa-030163427221" />
